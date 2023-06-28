@@ -1,0 +1,5 @@
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico2\obj\Debug\net7.0\EjercicioBasico2.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico2\obj\Debug\net7.0\EjercicioBasico2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico2\obj\Debug\net7.0\EjercicioBasico2.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico2\obj\Debug\net7.0\EjercicioBasico2.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico2\obj\Debug\net7.0\EjercicioBasico2.csproj.CoreCompileInputs.cache

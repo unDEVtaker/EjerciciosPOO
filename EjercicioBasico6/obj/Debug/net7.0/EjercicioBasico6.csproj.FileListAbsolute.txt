@@ -1,0 +1,15 @@
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.csproj.AssemblyReference.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.AssemblyInfoInputs.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.AssemblyInfo.cs
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.csproj.CoreCompileInputs.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\bin\Debug\net7.0\EjercicioBasico6.exe
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\bin\Debug\net7.0\EjercicioBasico6.deps.json
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\bin\Debug\net7.0\EjercicioBasico6.runtimeconfig.json
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\bin\Debug\net7.0\EjercicioBasico6.dll
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\bin\Debug\net7.0\EjercicioBasico6.pdb
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.dll
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\refint\EjercicioBasico6.dll
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.pdb
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\EjercicioBasico6.genruntimeconfig.cache
+D:\Programacion\unDEVtaker\C#-POO\EjercicioBasico6\obj\Debug\net7.0\ref\EjercicioBasico6.dll
